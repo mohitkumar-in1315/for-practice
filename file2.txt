@@ -1,1 +1,2 @@
 this is my file for git second file => 2
+i change in the second folder => 2;
