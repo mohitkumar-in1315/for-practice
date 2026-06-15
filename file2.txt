@@ -2,3 +2,4 @@ this is my file for git second file => 2
 i change in the second folder => 2;
 again i change in the second file => 3;
 add another marketing message secotion
+add footer note
